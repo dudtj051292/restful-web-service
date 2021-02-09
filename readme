@@ -1,0 +1,3 @@
+Spring Framework와 SpringBoot의 차이점
+Springboot는 Java main에서 실행한다.
+Framework는 tomcat에 바로 올려서 실행
