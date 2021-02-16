@@ -1,3 +1,23 @@
 Spring Framework와 SpringBoot의 차이점
 Springboot는 Java main에서 실행한다.
 Framework는 tomcat에 바로 올려서 실행
+
+
+
+RestContoller Annotation 안의 반환값은 String이 아니라면 JSON문서로 매핑해준다.
+
+XML로 반환하고 싶으면 라이브러리 추가할것
+
+Spring boot의 동작원리
+
+
+yml과 properties 차이
+yml은 설정이름 : 값 으로 구성
+
+
+서버로부터 요청결과값을 적절한 상태 코드값을 반환해주는것이 좋은 REST API
+
+사용자가 입력한 데이터에 대해 유효성 검사
+Hibernate
+ = 자바에서 DB에 관련된 어플리케이션을 개발하기 위해 사용하는 API 개바의 객체와 DB의 엔티티를 매핑하기 위한 프레임워크 제공
+
